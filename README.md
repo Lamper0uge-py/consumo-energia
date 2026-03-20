@@ -32,7 +32,7 @@ Este programa procura calcular o consumo elétrico de forma fácil e rápida, al
         - Estimativa do valor a ser pago no mês
             estimated_monthly_cost = monthly_consumption * cost_value
         
-         Estimativa do valor a ser pago no ano
+        - Estimativa do valor a ser pago no ano
             estimated_anual_cost = estimated_monthly_cost * 12
 
 - O valor armazenado em cost_value é baseado no valor médio do kWh da Enel SP no ano de 2025.
